@@ -1,13 +1,11 @@
 module.exports = {
   name: {
-    first: 'Kent',
-    middle: 'Christopher',
-    last: 'Dodds',
+    first: 'Nguyen',
+    middle: 'Dang',
+    last: 'Khoa',
   },
-  birthday: '1988-10-18',
-  twitter: 'https://twitter.com/kentcdodds',
-  github: 'https://github.com/kentcdodds',
-  website: 'http://kentcdodds.com',
-  email: 'kent@doddsfamily.us',
+  twitter: 'https://twitter.com/khoanguyenme',
+  github: 'https://github.com/thangngoc89',
+  website: 'http://khoanguyen.me',
+  email: 'hi@khoanguyen.me',
 }
-

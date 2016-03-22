@@ -1,20 +1,20 @@
 {
-  "name": "kentcdodds",
+  "name": "thangngoc89",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Khoa Nguyen <hi@khoanguyen.me> (http://khoanguyen.me/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/npm-kentcdodds.git"
+    "url": "git+https://github.com/thangngoc89/thangngoc89.git"
   },
   "bugs": {
-    "url": "https://github.com/kentcdodds/npm-kentcdodds/issues"
+    "url": "https://github.com/thangngoc89/thangngoc89/issues"
   },
-  "homepage": "https://github.com/kentcdodds/npm-kentcdodds#readme",
+  "homepage": "https://github.com/thangngoc89/thangngoc89#readme",
   "description": "me"
 }
